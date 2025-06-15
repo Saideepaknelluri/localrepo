@@ -1,1 +1,2 @@
-#This is example project to understand the git commands
+# This is example project to understand the git command
+
